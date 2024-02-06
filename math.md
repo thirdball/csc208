@@ -3,6 +3,8 @@
 
 An implication is basically an "if...then" statement.
 
+Let p and q be propositions. The proposition "p implies q" denoted by p -> q is called implication. It is false when p is true and q is false and is true otherwise. In p -> q, p is called the hypothesis and q is called the conclusion.
+
 Example: 
 
  **P -> Q**: If statement P is true, then statement Q must also be true.
