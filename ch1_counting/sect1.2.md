@@ -30,4 +30,7 @@ A lattice path is one of the shortest paths connecting two points on a lattice.
 For example, a lattice path connecting the coordinates (0,0) and (3,2) would have to have only 5 steps. Some lattice paths would be (U meaning up and R meaning right) UUURR and RURUR.
 
 ### Binomial Coefficients
-![binomial coefficients](Screen Shot 2024-02-27 at 4.13.26 PM.png)
+
+Binomial Coefficients are read as "n choose k". This costruct is the number of subsets of a set of size n with a cardinality of k.
+This can be written as $|B_k^n|$.
+
