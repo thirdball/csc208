@@ -1,5 +1,14 @@
 # Chapter 1.2 Notes
 
+### Counting Subsets
+Suppose we look at the set A  {1, 2, 3, 4, 5}. How many subsets of A contain xactly 3 elements?
+
+Together there are 20
+of these subsets, so 10 each.
+
+Number of elements:0 1 2   3 4 5
+Number of subsets: 1 5 10 10 5 1
+
 ### Bit Strings
 Bit is short for binary digit, so a bit string is just a string of binary digits from 0 to 1.
 Examples:
