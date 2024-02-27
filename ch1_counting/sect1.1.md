@@ -1,5 +1,4 @@
 # Chapter 1.1 Execises
-(I might finish this a bit late cause I have a bad cold)
 ### 1. Your wardrobe consists of 5 shirts, 3 pairs of pants, and 17 bow ties. How many different outfits can you make?
 
  Answer: 255
@@ -19,3 +18,10 @@ Answer: 8 ties
 Since there are no combinations, use the additive property and add all the ties cause you can only wear one tie at a time. 
 3 + 5 = 8 
 This will give you the total amount of ties a.k.a the amount of choices you have.
+
+### 7. A group of college students were asked about their TV watching habits. Of those surveyed, 28 students watch The Walking Dead, 19 watch The Blacklist, and 24 watch Game of Thrones. Additionally, 16 watch The Walking Dead and The Blacklist, 14 watch The Walking Dead and Game of Thrones, and 10 watch The Blacklist and Game of Thrones. There are 8 students who watch all three shows. How many students surveyed watched at least one of the shows?
+
+Answer: 39
+
+Use a venn diagram:
+28 + 19 + 24 - 16 - 14 - 10 + 8 = 39
