@@ -29,3 +29,5 @@ A lattice path is one of the shortest paths connecting two points on a lattice.
 
 For example, a lattice path connecting the coordinates (0,0) and (3,2) would have to have only 5 steps. Some lattice paths would be (U meaning up and R meaning right) UUURR and RURUR.
 
+### Binomial Coefficients
+![binomial coefficients](Screen Shot 2024-02-27 at 4.13.26 PM.png)
