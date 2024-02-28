@@ -23,5 +23,7 @@ This will give you the total amount of ties a.k.a the amount of choices you have
 
 Answer: 39
 
-Use a venn diagram:
+Use a triple venn diagram:
 28 + 19 + 24 - 16 - 14 - 10 + 8 = 39
+
+![venn diagram](C++_Projects/images.png)
