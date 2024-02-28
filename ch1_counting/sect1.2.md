@@ -6,6 +6,8 @@ Suppose we look at the set A  {1, 2, 3, 4, 5}. How many subsets of A contain xac
 Together there are 20
 of these subsets, so 10 each.
 
+Finding how many subsets of A exist of cardinality x reveals a symmetrical pattern.
+
 | Number of elements | Number of subsets|
 | -------------------|------------------|
 |0                   |1                 |
