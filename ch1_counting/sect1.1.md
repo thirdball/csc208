@@ -25,3 +25,5 @@ Answer: 39
 
 Use a triple venn diagram:
 28 + 19 + 24 - 16 - 14 - 10 + 8 = 39
+
+![venn diagram](https://github.com/thirdball/csc208/blob/main/ch1_counting/images.png)
