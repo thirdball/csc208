@@ -29,3 +29,7 @@ Use a triple venn diagram:
 ![venn diagram](https://github.com/thirdball/csc208/blob/main/ch1_counting/images.png)
 
 8 goes in the middle because it represents how many people watched all 3 shows. In the overlaps between two circles, we would put the number of people who watched 2 of each show minus 8 to avoid counting the same people twice. Finally, in each singular circle, you would put the total number of people who watched a single shows minus the overlaps included in the circle.
+
+Sources:
+- https://discrete.openmathbooks.org/dmoi3/sec_counting-addmult.html
+- https://www.youtube.com/watch?v=Wod3DOJVCyw 
