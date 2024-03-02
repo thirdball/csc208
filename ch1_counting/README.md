@@ -1,0 +1,1 @@
+[1.2 problem #7](https://github.com/thirdball/csc208/blob/main/ch1_counting/sect1.2.md)
