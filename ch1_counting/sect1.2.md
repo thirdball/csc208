@@ -1,5 +1,11 @@
 # Chapter 1.2 Notes
 
+## Problem I was supposed to present:
+### 7. How many subsets of {0, 1, . . . , 9} have cardinality 6 or more?
+___________________________________________
+The total number of subsets of {0, 1, ..., 9} of cardinality less than 6 is 1 + 10 + 45 + 120 + 210 + 252 = 638. Therefore, the number of subsets of {0, 1, ..., 9} of cardinality 6 or more is 1024 - 638 = 386.
+
+
 ### Counting Subsets
 Suppose we look at the set A  {1, 2, 3, 4, 5}. How many subsets of A contain xactly 3 elements?
 
@@ -35,4 +41,3 @@ For example, a lattice path connecting the coordinates (0,0) and (3,2) would hav
 
 Binomial Coefficients are read as "n choose k". This costruct is the number of subsets of a set of size n with a cardinality of k.
 This can be written as $|B_k^n|$.
-
