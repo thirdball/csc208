@@ -5,6 +5,8 @@
 ___________________________________________
 The total number of subsets of {0, 1, ..., 9} of cardinality less than 6 is 1 + 10 + 45 + 120 + 210 + 252 = 638. Therefore, the number of subsets of {0, 1, ..., 9} of cardinality 6 or more is 1024 - 638 = 386.
 
+You can also add the combinations in desmos scientific calculator:
+![equation](https://github.com/thirdball/csc208/blob/main/ch1_counting/equation.png)
 
 ### Counting Subsets
 Suppose we look at the set A  {1, 2, 3, 4, 5}. How many subsets of A contain xactly 3 elements?
