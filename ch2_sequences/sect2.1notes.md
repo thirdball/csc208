@@ -9,3 +9,6 @@ numbers, in the sequence we very much care what order the numbers
 come in. For this reason, when we use variables to represent terms in a
 sequence they will look like this:
 >$a_0,a_1,a_2...$
+
+The numbers in the subscripts are called indices
+(the plural of index).
