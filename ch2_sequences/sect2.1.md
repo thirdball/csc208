@@ -8,10 +8,19 @@ The sequence above consists of all numbers that are 1 more than a perfect square
 This looks like triangular numbers (1, 3, 6,...), but is just subtracting one. We can just subtract one from the triangular number formula which gives us $a_n = \left(\frac{n(n+1)}{2}\right) - 1$
 > (c) 8,12,17,23,30,...
 
-This pattern also uses triangular numbers, but later in the pattern . This will give us the equation $ a_n = \frac{(n+2)(n+3)}{2} + 2 $
+This pattern also uses triangular numbers, but on the 6th term and adds 2 to each term. This will give us the equation $ a_n = \frac{(n+2)(n+3)}{2} + 2 $
 >(d) 1,5,23,119,719,...
 
 This pattern uses factorials, but starts with the second term and subtracts one from each number. This gives us $ a_n = (n+1)! - 1 $
+
+## 3. Write out the first 5 terms (starting with $a_0$) of each of the sequences described below. Then give either a closed formula or a recursive definition for the sequence (whichever is NOT given in the problem).
+### a) $a_n = 1/2(n^2 + n)$
+The given formula is closed. Plugging in 1, 2, 3, and 4 gives 1, 3, 6, 10, which are triangular numbers. Making this into a recursive formula gives us
+$a_n = a_{n-1}, a_0 = 1$
+### b) $a_n = 2a_{n-1}-a_{n-2}$, $a_0 = 0, a_1 = 1$
+The closed version of this would be $a_n = n$
+### c) $a_n = na_{n-1}, a_0 = 1$
+This is a recursive factorial formula. The closed version is $a_n = n!$
 
 ## 17. Consider bit strings with length l and weight k (so strings of l 0’s and 1’s, including k 1’s). We know how to count the number of these for a fixed l and k. Now, we will count the number of strings for which the sum of the length and the weight is fixed. For example, let’s count all the bit strings for which l + k  11.
 
