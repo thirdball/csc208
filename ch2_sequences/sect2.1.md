@@ -11,7 +11,7 @@ a. The longest string is $l = 11, k = 0$. The shortest is $l = 6, k = 5$.
 b. There ${11 \choose 0}$ and ${6 \choose 5}$ of these, respectively. So we just fill in the blanks and get the sum by doing:
 	$${11 \choose 0}+{10 \choose 1}+{9 \choose 2}+{8 \choose 3}+{7 \choose 4}+{6 \choose 5} = 134$$
 
-c. Well making this into a sequence, the first few terms, starting at $a_1$, are $$ 1, 2, 2, 3, 3, 4, 4$$ i see the pattern. A recursive formula is difficult to find here but I think it's $a_{n+1}$ = $a_n - a_{n-1}$ with $a_1 = 1, a_2 = 2$
+c. Well making this into a sequence, the first few terms, starting at $a_1$, are $$ 1, 2, 3, 5, 8, 13, 21$$ i see the pattern. A recursive formula is difficult to find here but I think it's $a_{n+1}$ = $a_n - a_{n-1}$ with $a_1 = 1, a_2 = 2$
 
 d. $a_n$ in this case follows the same rule as pascal's triangle  where two numbers in the same row add up to the number below them. Here, $a_1 + a_2 = a_3$, $a_3 + a_4 = a_5$, and so on. This pattern happens indefinitely. 
     
