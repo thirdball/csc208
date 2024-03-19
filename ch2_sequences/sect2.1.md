@@ -14,14 +14,37 @@ This pattern also uses triangular numbers, but on the 6th term and adds 2 to eac
 This pattern uses factorials, but starts with the second term and subtracts one from each number. This gives us $ a_n = (n+1)! - 1 $
 
 ## 3. Write out the first 5 terms (starting with $a_0$) of each of the sequences described below. Then give either a closed formula or a recursive definition for the sequence (whichever is NOT given in the problem).
-### a) $a_n = 1/2(n^2 + n)$
+### (a) $a_n = 1/2(n^2 + n)$
 The given formula is closed. Plugging in 1, 2, 3, and 4 gives 1, 3, 6, 10, which are triangular numbers. Making this into a recursive formula gives us
 $a_n = a_{n-1}, a_0 = 1$
-### b) $a_n = 2a_{n-1}-a_{n-2}$, $a_0 = 0, a_1 = 1$
+### (b) $a_n = 2a_{n-1}-a_{n-2}$, $a_0 = 0, a_1 = 1$
 The closed version of this would be $a_n = n$
-### c) $a_n = na_{n-1}, a_0 = 1$
+### (c) $a_n = na_{n-1}, a_0 = 1$
 This is a recursive factorial formula. The closed version is $a_n = n!$
 
+### 4. Consider the sequence $(a_n)_{n>=1}$ that starts $1,3,5,7,9,\ldots$ (i.e., the odd numbers in order.)
+
+### (a)
+Recursive Fomrula: $a_n = a_{n-1} + 2$\
+Closed Formula: $a_n = 2n-1$
+### (b)
+$b_n = n^2$
+
+## 5.
+### (a)
+$0,1,2,4,7,\ldots$
+### (b)
+$F_0 + F_1 + \ldots + F_n = F_{n+2} - 1$
+## 6.
+$a_n = a_{n-1} + a_{n-2}$
+## 7.
+$a_n = 2a_{n-1} + 4, a_1 = 10$
+## 8.
+$a_n = (n+1)^2 - 3(n+1) + 2$
+## 9.
+$a_0 = 10, a_1 = 41$
+
+___
 ## 17. Consider bit strings with length l and weight k (so strings of l 0’s and 1’s, including k 1’s). We know how to count the number of these for a fixed l and k. Now, we will count the number of strings for which the sum of the length and the weight is fixed. For example, let’s count all the bit strings for which l + k  11.
 
 ### Find examples of these strings of different lengths. What is the longest string possible? What is the shortest? 
