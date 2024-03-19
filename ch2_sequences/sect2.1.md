@@ -56,7 +56,7 @@ $\sum_{k=1}^{50} {1/k}$
 $\prod_{k=1}^n 2k$
 ### (e)
 $\prod_{k=1}^{100} {k/{k+1}}$
-___
+
 ## 17. Consider bit strings with length l and weight k (so strings of l 0’s and 1’s, including k 1’s). We know how to count the number of these for a fixed l and k. Now, we will count the number of strings for which the sum of the length and the weight is fixed. For example, let’s count all the bit strings for which l + k  11.
 
 ### Find examples of these strings of different lengths. What is the longest string possible? What is the shortest? 
