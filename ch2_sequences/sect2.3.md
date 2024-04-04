@@ -12,4 +12,4 @@ ___
 $$ 1,2,4,8,15,26 $$
 
 
-diffs are $1, 2, 4, 7, 11$, diffs of which are $1, 2, 3, 4$, diffs of which $1, 1, 1$. So its $\triangle^3-constant$ meaning its a trinomial. Got stuck trying to solve, see notebook p1.
+The first differences are $1, 2, 4, 7, 11$, the second are $1, 2, 3, 4$, and the third are $1, 1, 1$, meaning its a trinomial ($\triangle^3-constant$). $a_n = 1/6(n^3+5n+6)$
